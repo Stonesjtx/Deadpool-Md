@@ -24,7 +24,7 @@
 
 ## 💀 `Pair Code For Session`
 
-[Deadpool Pair](https://replit.com/@confrontermfisa/Deadpool-Pair?s=app)
+[Deadpool Pairing](https://replit.com/@confrontermfisa/Deadpool-Pairing-01?s=app)
 
 # 💀```Deployment✝️```
   # 😍Tutorial how to deploy
@@ -43,9 +43,9 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
-
 ```
-## `For Termux/Ssh/Ubuntu`
+```
+## 💀For Termux/Ssh/Ubuntu
 ```bash
 apt update
 apt upgrade
@@ -62,7 +62,7 @@ cd Deadpool-Md
 yarn install
 npm start
 ```
-## 💀`For VPS`
+## 💀For VPS
 ```bash
 apt install nodejs 
 apt install git 
@@ -74,9 +74,14 @@ git clone https://github.com/Confronter/Deadpool-Md
 cd Deadpool-Md
 npm start
 ```
-## 💀 Developer
+## 💀For 24/7 Activation (Termux)
+```
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```
+
+## 💀Developer
 
   - [**Follow Instagram**](https://instagram.com/confronter._)
 - [**WhatsApp Me**](https://wa.me/254796283064)
-  ## THANKS✝️💛
-  ***credits to Sam***
+## THANKS✝️💛
+  
